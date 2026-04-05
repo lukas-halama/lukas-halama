@@ -1,21 +1,34 @@
-Lukáš Halama
+# Hi there, I'm Lukáš Halama 👋
 
-IT student based in the Czech Republic, with a focus on Linux, automation, and programming.
+**IT Student & Automation Enthusiast** 📍 Based in the Czech Republic
 
-    Proficient with Linux environments (Ubuntu) and Bash scripting.
+I am a passionate IT student dedicated to mastering the layers of computing, from high-level automation to low-level systems programming. I spend most of my time in a terminal, building tools that make life easier.
 
-    Currently learning Python, C, and Git.
+---
 
-    Seeking opportunities to contribute to open-source projects.
+### 🛠 Technologies & Tools
 
-Technologies & Tools
+| **Core Stack** | **Actively Learning** |
+| :--- | :--- |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
 
-<table>   <tr>     <td align="center"><strong>Core Tools</strong></td>     <td align="center"><strong>Actively Learning</strong></td>   </tr>   <tr>     <td align="center">       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">     </td>     <td align="center">       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Language">     </td>   </tr> </table>
+---
 
-Current Focus
+### 🚀 Current Focus
 
-    Learning the C language to gain a deeper understanding of systems programming.
+* **Deep Systems Knowledge:** Learning **C** to understand memory management and system architecture.
+* **Automation:** Crafting **Python** scripts to eliminate repetitive tasks.
+* **Infrastructure:** Maintaining and optimizing my **[Dotfiles](your-link-here)** for the ultimate Linux workflow.
 
-    Developing practical automation scripts using Python.
+---
 
-    Maintaining and sharing Linux configurations in my dotfiles repository.
+### 🤝 Open Source & Collaboration
+I am actively looking to contribute to open-source projects! Whether it's fixing bugs, improving documentation, or helping with Bash/Python tooling, I'm eager to help and learn.
+
+* 📫 **How to reach me:** [Your Email/LinkedIn/Link]
+* ⚡ **Fun Fact:** I believe every manual task is just a script waiting to be written.
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
