@@ -1,18 +1,15 @@
 # Lukáš Halama
 
-IT Student | Czech Republic
+IT Student | Czech Republic  
+Focusing on Linux, automation, and systems programming.
 
-Focusing on Linux, automation, and systems programming. I spend most of my time in the terminal, writing scripts and exploring how things work under the hood.
+### Stack
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu) ![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash) ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python) ![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c) ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
 
-### Tech Stack
-- **OS & Scripting:** Linux (Ubuntu), Bash
-- **Languages:** Python, C
-- **Tools:** Git, Vim/Neovim
-
-### Current Projects
-- **Automation:** Developing practical Python scripts for daily workflows.
-- **Systems:** Learning C to better understand low-level operations.
-- **Dotfiles:** Managing my Linux environment configurations.
+### Focus
+- **Automation:** Writing Python and Bash scripts to streamline workflows.
+- **Systems:** Learning C to understand low-level operations.
+- **Environment:** Managing personal Linux configurations via dotfiles.
 
 ---
-*Seeking open-source projects to contribute to.*
+*Open to contributing to open-source projects.*
